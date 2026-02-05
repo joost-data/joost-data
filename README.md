@@ -1,14 +1,18 @@
-## Hi, I'm Joost 👋
+## Hi, I’m Joost 👋
 
-Aspiring data professional exploring the intersection of analytics, data science, and AI-assisted workflows.
-Experienced in Python, SQL, and data visualization, I enjoy transforming raw data into insights, storytelling and actionable recommendations.
+Data Analyst with 12+ years of experience translating complex, multi-source performance and product data into evidence-based decisions, clear dashboards, and executive-ready insights.
 
+I’ve built and owned analytics and reporting across SaaS, healthcare, and research environments—covering KPI design, funnel and attribution analysis, experimentation support, and decision-focused storytelling. I work end-to-end: define the question, gather and clean data, analyse it, and communicate results so non-technical stakeholders can act.
+
+**Core tools:** SQL, Python (pandas/NumPy), Excel/Sheets, Power BI, Looker Studio, GA4/Matomo, GTM, Git.
 
 ### 🔗 Links
 - LinkedIn: https://www.linkedin.com/in/joostkinnaer
+- GitHub portfolio: https://github.com/joost-data/data-analytics-portfolio
 - Credly certifications: https://www.credly.com/users/joost-kinnaer/badges#credly
 - Coursera: https://www.coursera.org/learner/joost-data
 - boot.dev: https://www.boot.dev/u/joost-data
 
-
-### 📌 Featured Projects (coming soon)
+### 📌 Featured Projects
+- Superstore Profitability Analysis — SQL analysis with margin and discount guardrails
+- Technology Trends Analysis (IBM Capstone) — Python modelling + BI dashboards
