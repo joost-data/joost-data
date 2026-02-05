@@ -14,5 +14,6 @@ I’ve built and owned analytics and reporting across SaaS, healthcare, and rese
 - boot.dev: https://www.boot.dev/u/joost-data
 
 ### 📌 Featured Projects
-- Superstore Profitability Analysis — SQL analysis with margin and discount guardrails
-- Technology Trends Analysis (IBM Capstone) — Python modelling + BI dashboards
+- [Superstore Profitability Analysis (SQL)](./projects/project-02-analysis-sql-superstore-profitability) — Margin drivers, discount guardrails, region/category performance.
+- [Technology Trends Analysis (Python + BI)](./projects/project-01-data_visualization-python-developer-survey) — Cleaned multi-value survey data, built dashboards, summarised adoption trends.
+
