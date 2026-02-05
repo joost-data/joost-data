@@ -14,6 +14,5 @@ I’ve built and owned analytics and reporting across SaaS, healthcare, and rese
 - boot.dev: https://www.boot.dev/u/joost-data
 
 ### 📌 Featured Projects
-- [Superstore Profitability Analysis (SQL)](./projects/project-02-analysis-sql-superstore-profitability) — Margin drivers, discount guardrails, region/category performance.
-- [Technology Trends Analysis (Python + BI)](./projects/project-01-data_visualization-python-developer-survey) — Cleaned multi-value survey data, built dashboards, summarised adoption trends.
-
+- [SQL Superstore Profitability Analysis](https://github.com/joost-data/data-analytics-portfolio/tree/main/projects/project-01-analysis-sql-superstore-profitability) — margin drivers, discount guardrails, regional and category profitability
+- [Developer Survey Technology Trends (Python + BI)](https://github.com/joost-data/data-analytics-portfolio/tree/main/projects/project-02-data_visualization-python-developer-survey) — cleaned multi-value survey data, built BI-ready dataset, dashboarded trends and demographics
