@@ -16,9 +16,7 @@ I’ve built and owned analytics and reporting across SaaS, healthcare, and rese
 ### 📌 Featured Projects
 [SQL Superstore Profitability Analysis](https://github.com/joost-data/data-analytics-portfolio/tree/main/projects/project-01-analysis-sql-superstore-profitability)
  — margin drivers, discount guardrails, regional and category profitability
-
 [Developer Survey Technology Trends (Python + BI)](https://github.com/joost-data/data-analytics-portfolio/tree/main/projects/project-02-developer-survey-tech-trends-analysis-report-cognos)
  — cleaned multi-value survey data, built a BI-ready dataset, dashboarded trends and demographics
-
 [NHS Scotland A&E Performance Dashboard (Power BI)](https://github.com/joost-data/data-analytics-portfolio/tree/main/projects/project-03-nhs-scotland-ae-performance-analysis-dashboard-power-bi)
  — modeled 2007–2025 performance data, tracked long waits (4+ hours), and surfaced timing + regional pressure patterns
