@@ -4,7 +4,7 @@ Data Analyst with 12+ years of experience translating complex, multi-source perf
 
 I’ve built and owned analytics and reporting across SaaS, healthcare, and research environments—covering KPI design, funnel and attribution analysis, experimentation support, and decision-focused storytelling. I work end-to-end: define the question, gather and clean data, analyse it, and communicate results so non-technical stakeholders can act.
 
-**Core tools:** SQL, Python (pandas/NumPy), Excel/Sheets, Power BI, Looker Studio, GA4/Matomo, GTM, Git.
+**Core tools:** SQL, Python (pandas/NumPy), Excel/Sheets, Power BI, Tableau, Looker Studio, GA4/Matomo, GTM, Git.
 
 ### 🔗 Links
 - LinkedIn: https://www.linkedin.com/in/joostkinnaer
