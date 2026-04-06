@@ -9,9 +9,10 @@ I’ve built and owned analytics and reporting across SaaS, healthcare, and rese
 ### 🔗 Links
 - LinkedIn: https://www.linkedin.com/in/joostkinnaer
 - GitHub portfolio: https://github.com/joost-data/data-analytics-portfolio
+- All certifications: https://github.com/joost-data/data-analytics-portfolio/tree/main/credentials/certificates
 - Credly certifications: https://www.credly.com/users/joost-kinnaer/badges#credly
+- boot.dev certifications: https://www.boot.dev/u/joost-data
 - Coursera: https://www.coursera.org/learner/joost-data
-- boot.dev: https://www.boot.dev/u/joost-data
 
 ### 📌 Featured Projects
 [SQL Superstore Profitability Analysis](https://github.com/joost-data/data-analytics-portfolio/tree/main/projects/project-01-analysis-sql-superstore-profitability)
