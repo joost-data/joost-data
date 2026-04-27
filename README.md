@@ -22,7 +22,7 @@ Microsoft Power BI Data Analyst - PL-300 Exam (In Progress)
 - boot.dev certifications: https://www.boot.dev/u/joost-data
 
 
-### Featured Projects
+### 🚀 Featured Projects
 
 **Project 01 — Superstore SQL Profitability Analysis (SQLite):** 
 End-to-end SQL case study showing margin drivers, discount guardrails, and loss concentration by product and region. 
